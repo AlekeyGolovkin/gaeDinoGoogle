@@ -1,0 +1,17 @@
+#dino {
+	width: 50px;
+	height: 50px;
+	background-image: url(./img/googe_dino.png);
+
+	position: relative;
+	top: 220px;
+}
+#cactus {
+	width: 20px;
+	height: 40px;
+	background-image: url(img/cactus.png);
+	background-size: 20px 40px;
+	position: relative;
+	top: 160px;
+	left: 580px;
+}
